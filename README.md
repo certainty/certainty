@@ -2,7 +2,7 @@
 
 **I learn what is needed, when it's needed, to fill the roles I'm in - and I do it fast**. 
 
-With roughly 18 years in the field I eat, sleep and breathe code, know how to approach
+With roughly 18 years in the field I eat, sleep, and breathe code. I know how to approach
 complex systems and build components that meet today’s demands. I've been in the position of a leader a follower alike and I am comfortable switching
 both hats.
 
