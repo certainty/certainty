@@ -23,11 +23,11 @@ I'm currently actively working mostly on the following projects:
 ## Professional
 
 I'm currently leading a team of architects and software engineers at New Work SE, where we build and operate the GraphQL Gateway, which
-powers our products. We're building tools for our product engineers and try to make their lives easier, which is a great area to work in.
+powers our products. We're crafting tools and services for our product engineers and try to make their lives easier, which is a great area to work in.
 
 Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out more. 
 
-## Get in contact
+## Get in contact with me
 
 <a href="https://www.linkedin.com/in/david-krentzlin-b1708818b/">
   <img align="left" alt="David Krentzlin's LinkedIN" width="30px" src="assets/logo_li.png" />
