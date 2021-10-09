@@ -6,7 +6,7 @@ With roughly 18 years in the field I eat, sleep, and breathe code. I know how to
 complex systems and build components that meet today’s demands. I've been in the position of a leader a follower alike and I am comfortable switching
 both hats.
 
-In the end it's mostly about people, communication and relations and rarely about technology. 
+In the end it's mostly about people, communication, and relations - occasionally about technology. 
 
 
 ## Projects
