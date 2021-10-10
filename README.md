@@ -21,7 +21,7 @@ I'm currently actively working on the following projects:
 
 ## Professional
 
-I'm currently leading a team of architects and software engineers at New Work SE, where we build and operate the GraphQL gateway which
+I'm currently leading a team of architects and software engineers at New Work SE, where we build and operate the GraphQL API platform, which
 powers our products. We're crafting tools and services for our product engineers and try to make their lives easier, which is a great area to work in.
 
 Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out more. 
