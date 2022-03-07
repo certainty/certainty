@@ -26,6 +26,18 @@ powers our products. We're crafting tools and services for our product engineers
 
 Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out more. 
 
+## Talks
+
+I gave talks on various local meetups. In 2018 and I gave a talk at the GraphQL EU on how my team built our GraphQL platform.
+
+<div>
+  
+<a href="https://www.youtube.com/watch?v=kMOq3nf8vKY">
+  <img alt="Supercharged SDL GraphQL EU" width="400px" src="https://user-images.githubusercontent.com/338957/157052358-abc24296-4ce0-44bb-b997-1ce2904fd65e.png" />
+</a>
+  
+</div>
+
 ## Get in contact with me
 
 <a href="https://www.linkedin.com/in/david-krentzlin-b1708818b/">
