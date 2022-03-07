@@ -28,7 +28,7 @@ Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out mor
 
 ## Talks
 
-I gave talks on various local meetups. In 2018 and I gave a talk at the GraphQL EU on how my team built our GraphQL platform.
+I gave talks on various local meetups. In 2018 I gave a talk at the GraphQL EU on how my team built our GraphQL platform.
 
 <div>
   
