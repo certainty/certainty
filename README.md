@@ -21,8 +21,9 @@ I'm currently actively working on the following projects:
 
 ## Professional
 
-I'm currently leading a team of architects and software engineers at New Work SE, where we build and operate the GraphQL API platform, which
-powers our products. We're crafting tools and services for our product engineers and try to make their lives easier, which is a great area to work in.
+I'm currently a tech lead of the delivery experience team at [Hive Technologies](https://www.hive.app/).
+
+Previously I lead a team of architects and software engineers at [New Work SE](https://www.new-work.se/en), which builds and operates our GraphQL API platform. And before that I worked as a software engineer in the same area.
 
 Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out more. 
 
