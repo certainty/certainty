@@ -1,31 +1,33 @@
 # David Krentzlin
 
-**I learn what is needed, when it's needed, to fill the roles I'm in - and I do it fast**. 
+> Keep learning. Show up. Do the work. Finish strong."
 
-With roughly 18 years in the field I eat, sleep, and breathe code. I know how to approach
-complex systems and build components that meet today’s demands. I am comfortable being both a leader and a follower.
 
-In the end it's mostly about people, communication, and relations - occasionally about technology. 
+With 18 years in the field, I eat, sleep, and breathe code. I know how to approach complex systems and build components that meet today’s demands.
+I am comfortable being both a leader and a follower.
 
+In the end, it’s about people, communication, and relations - occasionally about technology. 
 
 ## Projects
 
-All of the projects I have on github are for my personal educational purposes. That's the usual disclaimer to say, that they're in development
-and even though I try to keep the main branch functional at all times, it may contain code that's incomplete or wrong.
+All the projects I have on GitHub are for my personal educational purposes. That’s the usual disclaimer to say that they’re in development and even though I try to keep the main branch functional at all times, it may contain code that’s incomplete or wrong.
 
-I'm currently actively working on the following projects:
+I’m working on the following projects:
 
 * **[braces](https://github.com/certainty/braces)** *a scheme compiler and virtual machine written in Rust*
 * **[r2d2](https://github.com/certainty/r2d2)** *a key-value store written in rust to explore LSMs and distributed storage systems*
-* **[GraphQShell](https://github.com/certainty/graphqshell)** *a textual GraphQL client and explorer written in Haskell*
 
 ## Professional
 
-I'm currently a tech lead of the delivery experience team at [Hive Technologies](https://www.hive.app/).
+I’m a backend guy and have worked on many services and platforms during my career.  
 
-Previously I lead a team of architects and software engineers at [New Work SE](https://www.new-work.se/en), which builds and operates our GraphQL API platform. And before that I worked as a software engineer in the same area.
+I think it’s fair to say that I’m much better at building infrastructure, platforms and developer tooling, than user-facing products. As it’s quite common in our industry, I’ve gone into management, stayed there for a while, and circled back into an IC role. I have learned a ton in each of those areas and like to think that this made me overall more well-rounded. 
 
-Head over to my **[resume](assets/resume_2021.pdf)** if you want to find out more. 
+Head over to my **[resume](assets/resume_2021.pdf)** for all the details, or look at my three most recent positions here:
+
+* **Senior Software Architect** at [New Work SE](https://www.new-work.se/en), supporting the cloud platform team. 
+* **Tech Lead** at [Hive Technologies](https://www.hive.app/), supporting the delivery & end-customer experience team.
+* **Team Lead Architecture** at [New Work SE](https://www.new-work.se/en), leading the API platform team that built and operated the GraphQL platform.
 
 ## Talks
 
