@@ -1,6 +1,6 @@
 # David Krentzlin
 
-> Keep learning. Show up. Do the work. Finish strong."
+> Keep learning. Show up. Do the work. Finish strong.
 
 
 With 18 years in the field, I eat, sleep, and breathe code. I know how to approach complex systems and build components that meet today’s demands.
