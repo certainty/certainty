@@ -14,9 +14,9 @@ All the projects I have on GitHub are for my personal educational purposes. That
 
 I’m working on the following projects:
 
-* **[go-braces](https://github.com/certainty/go-braces)** *a learning platform to explore compiler building*
-* **[braces](https://github.com/certainty/braces)** *a scheme compiler and virtual machine written in Rust*
-* **[r2d2](https://github.com/certainty/r2d2)** *a key-value store written in rust to explore LSMs and distributed storage systems*
+* **[cl-braces](https://github.com/certainty/cl-braces)** *a golang compiler and virtual machine in the making, with the primary objective of learning how to implement a real language. - Common Lisp*
+* **[braces](https://github.com/certainty/braces)** *a scheme compiler and virtual machine - Rust*
+* **[r2d2](https://github.com/certainty/r2d2)** *a key-value store written in rust to explore LSMs and distributed storage systems - Rust*
 
 ## Professional
 
