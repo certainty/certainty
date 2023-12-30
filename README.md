@@ -25,7 +25,7 @@ I’m a backend guy and have worked on many services and platforms during my car
 I think it’s fair to say that I’m much better at building infrastructure, platforms and developer tooling, than user-facing products. As it’s quite common in our industry, I’ve gone into management, stayed there for a while, and circled back into an IC role. I have learned a ton in each of those areas and like to think that this made me overall well-rounded. I enjoy learning new things, and exploring new areas, which I can approach with
 a beginner's mindset. If found that this keeps me grounded, humble and engaged. 
 
-Head over to my **[resume](assets/resume_2021.pdf)** for all the details, or look at my three most recent positions here:
+Head over to my **[resume](https://david.krentzlin.me/cv) for all the details, or look at my three most recent positions here:
 
 * **Senior Software Architect** at [New Work SE](https://www.new-work.se/en), supporting the cloud platform team. 
 * **Tech Lead** at [Hive Technologies](https://www.hive.app/), supporting the delivery & end-customer experience team.
