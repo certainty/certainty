@@ -3,7 +3,7 @@
 > Keep learning. Show up. Do the work. Finish strong.
 
 
-With 18 years in the field, I eat, sleep, and breathe code. I know how to approach complex systems and build components that meet today’s demands.
+With 20 years in the field, I eat, sleep, and breathe code. I know how to approach complex systems and build components that meet today’s demands.
 I am comfortable being both a leader and a follower.
 
 In the end, it’s about people, communication, and relations - occasionally about technology. 
