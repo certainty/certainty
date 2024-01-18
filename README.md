@@ -16,6 +16,7 @@ I’m working on the following projects:
 
 * **[cl-braces](https://github.com/certainty/cl-braces)** *a golang compiler and virtual machine in the making - Common Lisp*
 * **[1brc](https://github.com/certainty/1brc)** *Solution for the [1 billion row challenge](https://github.com/gunnarmorling/1brc), to see if I can solve it in acceptible time in Common Lisp*
+* **[cl-dns](https://github.com/certainty/cl-dns)** *Implement DNS in a weekend - Common Lisp*
 * **[agol](https://github.com/certainty/alien-game-of-life)** *Conway's game of life - Common Lisp*
 * **[braces](https://github.com/certainty/braces)** *a scheme compiler and virtual machine - Rust*
 
