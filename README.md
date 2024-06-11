@@ -28,7 +28,7 @@ I’m working on the following projects:
 I’m a backend guy and have worked on many services and platforms during my career.  
 
 I think it’s fair to say that I’m much better at building infrastructure, platforms and developer tooling, than user-facing products. As it’s quite common in our industry, I’ve gone into management, stayed there for a while, and circled back into an IC role. I have learned a ton in each of those areas and like to think that this made me overall well-rounded. I enjoy learning new things, and exploring new areas, which I can approach with
-a beginner's mindset. If found that this keeps me grounded, humble and engaged. 
+a beginner's mindset. I found that this keeps me grounded, humble and engaged. 
 
 Head over to my **[CV](https://david.krentzlin.me/cv)** for all the details, or look at my three most recent positions here:
 
